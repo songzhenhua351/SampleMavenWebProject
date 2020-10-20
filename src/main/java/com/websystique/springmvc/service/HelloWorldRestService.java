@@ -8,6 +8,7 @@ import com.websystique.springmvc.repository.HelloWorldRestRepository;
 
 
 //testing for ones.ai #3
+//fix #4
 @Service
 public class HelloWorldRestService {
 	
